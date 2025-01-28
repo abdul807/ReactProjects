@@ -1,0 +1,21 @@
+/* .card h1{
+    text-align: center;
+
+}
+
+.card ul{
+    align-items: center;
+    justify-items: center;
+} */
+
+.card li{
+    list-style: none;
+    margin-top: 100px;
+    border: 1px solid rgb(136, 133, 133);
+    justify-items: center;
+}
+
+.card h1{
+    text-align: center;
+}
+
